@@ -1,10 +1,10 @@
-# 🎬 Movie Recommendation System
+# Movie Recommender System
 
 A simple content-based Movie Recommender System built with **Python**, **Streamlit**, and **TMDB API**. Get personalized movie suggestions with posters in one click!
 
 ---
 
-## 🔍 Features
+## Features
 
 - Recommend 5 similar movies based on selected movie
 - Fetches movie posters using [TMDB API](https://www.themoviedb.org/)
@@ -13,7 +13,7 @@ A simple content-based Movie Recommender System built with **Python**, **Streaml
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
@@ -24,10 +24,10 @@ A simple content-based Movie Recommender System built with **Python**, **Streaml
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
-📦MovieRecSystem
+📦Movie-Recommender-System
 ├── app.py                # Streamlit app script
 ├── movies.pkl            # Pickle file containing movie metadata
 ├── similarity.pkl        # Pickle file with cosine similarity matrix
