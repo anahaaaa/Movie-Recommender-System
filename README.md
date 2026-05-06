@@ -1,5 +1,12 @@
 # Movie Recommender System
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ORM-blue?style=for-the-badge)
+
 A simple content-based Movie Recommender System built with **Python**, **Streamlit**, and **TMDB API**. Get personalized movie suggestions with posters in one click!
 
 ---
@@ -27,7 +34,7 @@ A simple content-based Movie Recommender System built with **Python**, **Streaml
 ## Project Structure
 
 ```bash
-📦Movie-Recommender-System
+Movie-Recommender-System
 ├── app.py                # Streamlit app script
 ├── movies.pkl            # Pickle file containing movie metadata
 ├── similarity.pkl        # Pickle file with cosine similarity matrix
